@@ -1,0 +1,12 @@
+# Set default behavior, in case people don't have core.autocrlf set.
+* text=auto
+
+# Force consistent LF line endings for all files
+* text eol=lf
+
+# Define the line ending for specific file types
+*.js text eol=lf
+*.css text eol=lf
+*.html text eol=lf
+*.json text eol=lf
+*.md text eol=lf
